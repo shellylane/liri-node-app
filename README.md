@@ -3,7 +3,7 @@
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in paramaters and gives you back data.
 
 If you want to search concert information for one of our favorite bands just enter in the terminal: "node liri concert-this <artist/band name>". Example:
-![Image](https://github.com/shellylane/liri-node-app/blob/master/screenshots/concert-this.png)
+![Image](screenshots/concert-this.png)
 
 If you want to search for a favorite song, enter im the terminal: "node liri spotify-this-song <song name>". Liri will return data from Spotify that will include the Artist, Song Name, Preview Link, and Album Name. Example:
 ![Image](https://github.com/shellylane/liri-node-app/blob/master/screenshots/spotify-this-1.png)
