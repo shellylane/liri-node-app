@@ -1,7 +1,7 @@
 // Initialize dotenv
 require("dotenv").config();
 
-//NPM modules
+//NPM packages
 const axios = require("axios");
 const chalk = require("chalk");
 const Spotify = require("node-spotify-api");
@@ -14,7 +14,7 @@ const spotify = new Spotify(keys.spotify);
 
 //variable to store user action requested
 let action = process.argv[2];
-let search = process.argv.slice(3).join();
+let search = process.argv.slice(3).join(" ");
 
 //FUNCTIONS
 
