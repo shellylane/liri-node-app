@@ -4,7 +4,7 @@
   "description": "LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in paramaters and gives you back data.",
   "main": "liri.js",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "dotenv": "^6.1.0",
     "moment": "^2.22.2",
